@@ -1,5 +1,11 @@
-# Read me
+# README
 
-This is a story about a long git history.
+---
 
-I really would rather I didn't have to type all this out.
+### Summary
+
+This is a project to practice reverting & resetting. 
+
+### How to
+
+Clone me!
